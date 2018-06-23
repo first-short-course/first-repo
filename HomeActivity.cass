@@ -1,0 +1,11 @@
+public class HomeActivity extends AppCompactAtivity{
+ 
+public void onCreate(Bundle saveInstanceState)
+{
+
+	super(saveIntanceState);
+	setContentView(R.layout.activity_home);
+}
+
+
+}
